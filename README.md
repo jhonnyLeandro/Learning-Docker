@@ -30,3 +30,8 @@ command to login to dockerhub
 ## Run docker
 
 `docker container run -d --name name -p 8000:8080  dockerhubid/repo:tag`
+
+
+## stop container
+
+`docker containerstop name`
