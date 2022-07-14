@@ -19,3 +19,9 @@ command to login to dockerhub
 ## Delete image
 
 `docker image rm dockerhubid/repo:tag`
+
+
+## Listing images
+
+
+`docker image ls`
