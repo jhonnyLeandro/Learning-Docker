@@ -34,4 +34,4 @@ command to login to dockerhub
 
 ## stop container
 
-`docker containerstop name`
+`docker container stop name`
