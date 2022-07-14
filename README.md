@@ -13,4 +13,4 @@ command to login to dockerhub
 
 ## Docker push
 
-docker image push dockerhubid/repo:tag`
+`docker image push dockerhubid/repo:tag`
